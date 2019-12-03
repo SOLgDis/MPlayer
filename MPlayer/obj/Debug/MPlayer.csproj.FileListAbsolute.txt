@@ -1,0 +1,12 @@
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\bin\Debug\MPlayer.exe.config
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\bin\Debug\MPlayer.exe
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\bin\Debug\MPlayer.pdb
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.csprojAssemblyReference.cache
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.Properties.Resources.resources
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.csproj.GenerateResource.cache
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.exe
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.pdb
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.SignIn.resources
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.StartMPlayer.resources
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.SignUp.resources
+C:\Users\SOLg\source\repos\MPlayer\MPlayer\obj\Debug\MPlayer.Captcha.resources
